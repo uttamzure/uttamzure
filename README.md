@@ -36,7 +36,7 @@ Cloud & DevOps learner focused on building practical skills with Linux, Docker, 
 
 | Domain | Skills / Tools | Projects |
 |------|----------------|----------|
-| **Cloud** | AWS | - [Configure a Static Website with S3](https://github.com/techrohitx/Deploying_-Static_Website_using_-s3-bucket.git)<br>- [Securing VPC]()<br>- Scale the application using AWS resources |
+| **Cloud** | AWS | - [Configure a Static Website with S3]()<br>- [Securing VPC]()<br>- Scale the application using AWS resources |
 | **Orchestration** | Terraform, AWS ECS | - [Provisioning an Amazon ECS Cluster Using Terraform]()<br>- [Amazon ECS Blue-Green Deployment]() |
 | **Infrastructure as Code** | Terraform | - [Deploy Highly Available Website on AWS]()<br>- [AWS Infrastructure Deployment]()<br>- [Dynamic Blocks in Terraform]() |
 | **Containerization** | Docker | - [Docker Projects]() |
