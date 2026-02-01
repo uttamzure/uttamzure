@@ -1,7 +1,7 @@
 
 
 
-<h1 align="left">Hey 👋 I'm Uttam Zure</h1>
+                 <h1 align="left">Hey 👋 I'm Uttam Zure</h1>
 
 <p align="left">
 Cloud & DevOps learner focused on building practical skills with Linux, Docker, Git, and AWS through hands-on projects.
