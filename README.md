@@ -84,14 +84,11 @@ Cloud & DevOps learner focused on building practical skills with Linux, Docker, 
 <h2 align="left">Connect with me </h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rohit-shinde-495059295/" target="_blank">
+  <a href="https://www.linkedin.com/in/uttam-zure-183976352" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/rohitshinde0804" target="_blank">
+  <a href="https://www.instagram.com/uttamzure007" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@rohitshinde200419" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="59" height="40" alt="medium logo"  />
   </a>
 </div>
 
